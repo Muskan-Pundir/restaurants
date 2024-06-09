@@ -1,0 +1,74 @@
+body{
+    background-image: url("./images/item5.jpg");
+	font-size: 20px;
+}
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.subscribe {
+    background-image: url(./images/food2.jpg);
+	width: 500px;
+	padding: 0px;
+   
+	margin: 10px auto 0;
+	border-top: 5px solid rgb(249, 123, 108);
+	box-shadow:  0 0 7px 7px rgba(232, 175, 175, 0.5);
+}
+.subscribe p{
+    font-size: 20px;
+}
+.subscribe h5{
+    font-size: 24px;
+    text-align: center;
+   
+    margin-bottom: 50px;
+}
+.container{
+   text-align: center;
+	width: 500px;
+	padding: 0px;
+	margin: 10px auto 0;
+	border-top: 5px solid rgb(70, 11, 4);
+    box-shadow:  0 0 7px 7px rgba(118, 27, 27, 0.5);
+} 
+.input-name{
+    width: 70%;
+	position: relative;
+	margin: 10px auto;
+
+}
+.name{
+	width: 100%;
+	padding: 8px  ;
+}
+.email-name{
+        width: 100%;
+        padding: 8px 0 8px 10px;
+ }
+
+.lock{
+    padding: 8px 11px;
+}
+.name{
+	width: 100%;
+	padding: 8px 10px;
+}
+.email{
+	padding: 10px;
+}
+
+.feed{
+	padding: 50px 20px;
+}
+
+
+.button
+{
+	width:100%;
+    text-align: center;
+    border-radius: 30%;
+	background-color: rgb(251, 95, 67);
+	text-decoration-color: rgb(239, 197, 197);
+}

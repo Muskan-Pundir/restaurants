@@ -1,0 +1,59 @@
+year of delicious
+better food better mood
+
+year of delicious invites you to taste the essence of every season.
+immerse yourself in the year long feast of deliciousness
+
+
+
+.main_slide4 .chef img{
+	margin-top: -130px;
+	width: 50vw;
+	max-width: 490px;
+}
+
+.main_slide4 .chef-feed h2{
+	font-size: 32px;
+	margin-bottom: 25px;
+}
+
+.main_slide4 .chef-feed p{
+	font-size: 14px;
+	line-height: 20px;
+	margin-bottom: 10px;
+
+
+
+
+	<div class="about">
+	
+		<h2>About Us</h2>
+		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum laboriosam sunt
+			 hic amet odio eveniet labore sint atque, quos doloremque.<br> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam at distinctio asperiores architecto eaque vero quibusdam, quod, sit soluta labore molestiae, error corporis illum minus
+			  vitae nam accusamus corrupti culpa?</p>
+			
+			
+			  <div class="about-img">
+				<img src="./images/food2.jpg" alt="">
+			  </div>
+			</div>
+	</div>
+
+
+
+
+
+
+
+	
+.main_slide4 .chef-feed{
+	flex: 0.5;
+	margin-top: 30px;
+}
+
+.main_slide4 .chef{
+	flex: 0.5;
+	text-align: right;
+
+
+}

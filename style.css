@@ -1,0 +1,71 @@
+body{
+    background-image: url("./images/chef6.jpg");
+	font-size: 20px;
+}
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.sign_up{
+    
+    /* background-color: #f9b2b2; */
+	background-image: url(./images/food2.jpg);
+	width: 500px;
+	padding: 0px;
+	margin: 10px auto 0;
+	border-top: 5px solid rgb(249, 123, 108);
+	box-shadow:  0 0 7px 7px rgba(232, 175, 175, 0.5);
+}
+/* imge */
+.center{
+    display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+/* heading */
+.sign_up h2{
+	font-size:24px;
+	line-height: 14px;
+	padding: 20px;
+	text-align: center;
+
+}
+/* input class name ,,,etc */
+
+.input-name{
+	width: 70%;
+	position: relative;
+	margin: 10px auto;
+
+
+}
+/* email box */
+.email-name{
+	width: 100%;
+	padding: 8px 0 8px 40px;
+}
+.name{
+	width: 100%;
+	padding: 8px 10px;
+}
+.email{
+	padding: 8px;
+}
+
+.lock{
+	padding: 8px 11px;
+}
+.sign_up p{
+	text-align: center;
+	font-size:35px;
+	color: rgb(229, 0, 0);
+}
+
+.button
+{
+	width:100%;
+	background-color: rgb(251, 95, 67);
+	text-decoration-color: rgb(239, 197, 197);
+}
